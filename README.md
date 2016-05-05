@@ -5,3 +5,5 @@ a. Processing .rtf documents with substitution template variables by values from
 b. Conversion .rft documents or .pdf
 c. Sending email to recipient
 d. Updating Stage details with resutls of Send Stage process
+
+Class is in use in Ajax called function responsible for interface between JavaScript Fron-End and PHP Back-end
